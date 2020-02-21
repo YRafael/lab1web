@@ -406,3 +406,8 @@ form input {
     display: block;
     transition: opacity .1s linear;
 }
+
+.input_text_with_br {
+    display: block;
+    margin: 0 auto;
+}
