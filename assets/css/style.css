@@ -390,6 +390,7 @@ form input {
 }
 
 .hack_about-item {
+    list-style: none;: none;
     width: 225px;
 }
 
